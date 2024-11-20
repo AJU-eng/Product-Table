@@ -1,0 +1,972 @@
+{
+    "translation-revision-date": "2021-07-07T06:33:08+00:00",
+    "generator": "WP-CLI\/2.4.0",
+    "source": "backend.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Product Tables": [
+                ""
+            ],
+            "Settings": [
+                ""
+            ],
+            "Check premium options": [
+                ""
+            ],
+            "Products not found": [
+                ""
+            ],
+            "Item": [
+                ""
+            ],
+            "Items": [
+                ""
+            ],
+            "View Cart": [
+                ""
+            ],
+            "Global Settings": [
+                ""
+            ],
+            "Welcome to Product tables": [
+                ""
+            ],
+            "Cart widget settings": [
+                ""
+            ],
+            "Enable": [
+                ""
+            ],
+            "Bottom offset (unit PX or %)": [
+                ""
+            ],
+            "Right offset (unit PX or %)": [
+                ""
+            ],
+            "Background color": [
+                ""
+            ],
+            "Border color": [
+                ""
+            ],
+            "Border width": [
+                ""
+            ],
+            "Border radius": [
+                ""
+            ],
+            "Font color": [
+                ""
+            ],
+            "Font size": [
+                ""
+            ],
+            "Width (unit PX or %)": [
+                ""
+            ],
+            "Label settings": [
+                ""
+            ],
+            "Products not found message": [
+                ""
+            ],
+            "Footer cart widget single item text": [
+                ""
+            ],
+            "Footer cart widget multiple items text": [
+                ""
+            ],
+            "Footer cart widget view cart text": [
+                ""
+            ],
+            "Save Changes": [
+                ""
+            ],
+            "Saving...": [
+                ""
+            ],
+            "Saved": [
+                ""
+            ],
+            "Hey there,": [
+                ""
+            ],
+            "Add New Table": [
+                ""
+            ],
+            "TITLE": [
+                ""
+            ],
+            "DATE": [
+                ""
+            ],
+            "Shortcode": [
+                ""
+            ],
+            "Actions": [
+                ""
+            ],
+            "Quick edit": [
+                ""
+            ],
+            "Delete": [
+                ""
+            ],
+            "Create First Table": [
+                ""
+            ],
+            "Hey, You haven\u2019t created any tables yet,": [
+                ""
+            ],
+            "please create one": [
+                ""
+            ],
+            "Load more": [
+                ""
+            ],
+            "Add to cart": [
+                ""
+            ],
+            "Update Table": [
+                ""
+            ],
+            "Edit current table": [
+                ""
+            ],
+            "Create New Table": [
+                ""
+            ],
+            "Create new product table": [
+                ""
+            ],
+            "Publish Table": [
+                ""
+            ],
+            "Table Title": [
+                ""
+            ],
+            "Columns": [
+                ""
+            ],
+            "Navigation": [
+                ""
+            ],
+            "Configurations": [
+                ""
+            ],
+            "Responsive": [
+                ""
+            ],
+            "Design": [
+                ""
+            ],
+            "CSS": [
+                ""
+            ],
+            "Table Columns": [
+                ""
+            ],
+            "Add Column": [
+                ""
+            ],
+            "Close": [
+                ""
+            ],
+            "Properties": [
+                ""
+            ],
+            "Column Label": [
+                ""
+            ],
+            "Column Width": [
+                ""
+            ],
+            "Select": [
+                ""
+            ],
+            "Link to the product page": [
+                ""
+            ],
+            "Open product link on new tab": [
+                ""
+            ],
+            "Image Size": [
+                ""
+            ],
+            "Display placeholder if image is not available": [
+                ""
+            ],
+            "Click action": [
+                ""
+            ],
+            "Template": [
+                ""
+            ],
+            "Text when product is not rated": [
+                ""
+            ],
+            "Word limit": [
+                ""
+            ],
+            "This will strip HTML from content.": [
+                ""
+            ],
+            "Attribute": [
+                ""
+            ],
+            "Terms separator": [
+                ""
+            ],
+            "Text when no terms": [
+                ""
+            ],
+            "Category separator": [
+                ""
+            ],
+            "Text when no categories": [
+                ""
+            ],
+            "Tags separator": [
+                ""
+            ],
+            "Text when no tags": [
+                ""
+            ],
+            "Taxonomy name": [
+                ""
+            ],
+            "Use default WooCommerce product page button": [
+                ""
+            ],
+            "Button label": [
+                ""
+            ],
+            "Action": [
+                ""
+            ],
+            "Button Style": [
+                ""
+            ],
+            "Text color": [
+                ""
+            ],
+            "Border style": [
+                ""
+            ],
+            "Text align": [
+                ""
+            ],
+            "Padding": [
+                ""
+            ],
+            "Hover background color": [
+                ""
+            ],
+            "Hover border color": [
+                ""
+            ],
+            "Hover text color": [
+                ""
+            ],
+            "Out of stock message": [
+                ""
+            ],
+            "Single product left in stock message": [
+                ""
+            ],
+            "Low stock threshold": [
+                ""
+            ],
+            "Low stock message": [
+                ""
+            ],
+            "In stock message": [
+                ""
+            ],
+            "Display as": [
+                ""
+            ],
+            "Hide for sold individual products": [
+                ""
+            ],
+            "Max quantity": [
+                ""
+            ],
+            "Quantity label": [
+                ""
+            ],
+            "Date format (Use PHP valid formats)": [
+                ""
+            ],
+            "Template ( Use": [
+                ""
+            ],
+            "or": [
+                ""
+            ],
+            "Custom field name ( meta key )": [
+                ""
+            ],
+            "Custom field type": [
+                ""
+            ],
+            "Display value as": [
+                ""
+            ],
+            "Text when no value exists": [
+                ""
+            ],
+            "Use": [
+                ""
+            ],
+            "for product id": [
+                ""
+            ],
+            "Text": [
+                ""
+            ],
+            "HTML": [
+                ""
+            ],
+            "Additional Settings": [
+                ""
+            ],
+            "Custom Class": [
+                ""
+            ],
+            "View Properties": [
+                ""
+            ],
+            "Select a column to see it\u2019s properties": [
+                ""
+            ],
+            "Please don't add same filter in multiple containers": [
+                ""
+            ],
+            "Left Sidebar": [
+                ""
+            ],
+            "Add Element": [
+                ""
+            ],
+            "Header Row": [
+                ""
+            ],
+            "Conditions": [
+                ""
+            ],
+            "Table Width (PX)": [
+                ""
+            ],
+            "Products Type": [
+                ""
+            ],
+            "Select Product Type": [
+                ""
+            ],
+            "Products Visibility In": [
+                ""
+            ],
+            "Select Visibility Criteria": [
+                ""
+            ],
+            "Products By Categories": [
+                ""
+            ],
+            "Select Categories": [
+                ""
+            ],
+            "Products By Tags": [
+                ""
+            ],
+            "Select Tags": [
+                ""
+            ],
+            "Products By ID": [
+                ""
+            ],
+            "Add product IDs separated by comma": [
+                ""
+            ],
+            "Products By SKU": [
+                ""
+            ],
+            "Add SKUs separated by comma": [
+                ""
+            ],
+            "Exclude Products By Category": [
+                ""
+            ],
+            "Exclude Products By Tags": [
+                ""
+            ],
+            "Exclude Products By ID": [
+                ""
+            ],
+            "Order": [
+                ""
+            ],
+            "Order By": [
+                ""
+            ],
+            "In case of sort by price, sku etc. pease chose Custom Meta value or Custom Meta Number(if number) respectively": [
+                ""
+            ],
+            "Meta key of custom meta Value": [
+                ""
+            ],
+            "Please enter one key only(_sku), there should not be any space or comma": [
+                ""
+            ],
+            "Minimum Price": [
+                ""
+            ],
+            "Maximum Price\t": [
+                ""
+            ],
+            "Show Only In Stock Products": [
+                ""
+            ],
+            "Show Only On Sale Products": [
+                ""
+            ],
+            "Products Per Page": [
+                ""
+            ],
+            "Search target fields": [
+                ""
+            ],
+            "Select Fields": [
+                ""
+            ],
+            "Pagination": [
+                ""
+            ],
+            "Ajax Pagination": [
+                ""
+            ],
+            "Load more button": [
+                ""
+            ],
+            "Load more button label": [
+                ""
+            ],
+            "Add all to cart button": [
+                ""
+            ],
+            "Not support for variable, external and grouped products": [
+                ""
+            ],
+            "Add all to cart button label": [
+                ""
+            ],
+            "Table Custom Class Name": [
+                ""
+            ],
+            "Show Table Head": [
+                ""
+            ],
+            "Responsive Mode": [
+                ""
+            ],
+            "TABLET COLUMN": [
+                ""
+            ],
+            "MOBILE COLUMNS": [
+                ""
+            ],
+            "Table header": [
+                ""
+            ],
+            "Border top width": [
+                ""
+            ],
+            "Border right width": [
+                ""
+            ],
+            "Border bottom width": [
+                ""
+            ],
+            "Border left width": [
+                ""
+            ],
+            "Table body": [
+                ""
+            ],
+            "Button": [
+                ""
+            ],
+            "font size": [
+                ""
+            ],
+            "Active background color": [
+                ""
+            ],
+            "Active border color": [
+                ""
+            ],
+            "Active Text color": [
+                ""
+            ],
+            "Custom CSS": [
+                ""
+            ],
+            "Choose columns": [
+                ""
+            ],
+            "Cancel": [
+                ""
+            ],
+            "Done": [
+                ""
+            ],
+            "Add Navigation elements": [
+                ""
+            ],
+            "Edit": [
+                ""
+            ],
+            "Label": [
+                ""
+            ],
+            "Results Found message": [
+                ""
+            ],
+            "Placeholders:": [
+                ""
+            ],
+            "Message when single page result only": [
+                ""
+            ],
+            "Message when single result only": [
+                ""
+            ],
+            "No results found message": [
+                ""
+            ],
+            "Options Label": [
+                ""
+            ],
+            "Limit Max": [
+                ""
+            ],
+            "Initial Value": [
+                ""
+            ],
+            "Increment limit by": [
+                ""
+            ],
+            "Allow multiple options to be selected": [
+                ""
+            ],
+            "Hide empty terms": [
+                ""
+            ],
+            "Exclude terms by id": [
+                ""
+            ],
+            "Add ids separated by comma": [
+                ""
+            ],
+            "Show any option label": [
+                ""
+            ],
+            "Min Price": [
+                ""
+            ],
+            "Max Price": [
+                ""
+            ],
+            "Step (Increment by)": [
+                ""
+            ],
+            "Show any price option label": [
+                ""
+            ],
+            "custom min - max input option": [
+                ""
+            ],
+            "Placeholder": [
+                ""
+            ],
+            "Button text": [
+                ""
+            ],
+            "Heading": [
+                ""
+            ],
+            "In stock option label": [
+                ""
+            ],
+            "Out of stock option label": [
+                ""
+            ],
+            "On sale option label": [
+                ""
+            ],
+            "Show any rate option label": [
+                ""
+            ],
+            "Clear all label": [
+                ""
+            ],
+            "ASCENDING (Default)": [
+                ""
+            ],
+            "DESCENDING": [
+                ""
+            ],
+            "Name (Default)": [
+                ""
+            ],
+            "Menu Order": [
+                ""
+            ],
+            "Custom Meta Value": [
+                ""
+            ],
+            "Custom Meta Number (if numeric data)": [
+                ""
+            ],
+            "Date": [
+                ""
+            ],
+            "ID": [
+                ""
+            ],
+            "Author": [
+                ""
+            ],
+            "Product Title": [
+                ""
+            ],
+            "Type": [
+                ""
+            ],
+            "Modified": [
+                ""
+            ],
+            "Rand": [
+                ""
+            ],
+            "Reviews\/Comment Count": [
+                ""
+            ],
+            "Relevance": [
+                ""
+            ],
+            "Parent": [
+                ""
+            ],
+            "None": [
+                ""
+            ],
+            "Check": [
+                ""
+            ],
+            "Checkbox": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "Product Image": [
+                ""
+            ],
+            "Price": [
+                ""
+            ],
+            "Rating": [
+                ""
+            ],
+            "Excerpt": [
+                ""
+            ],
+            "Content": [
+                ""
+            ],
+            "Cart Form": [
+                ""
+            ],
+            "Category": [
+                ""
+            ],
+            "Tags": [
+                ""
+            ],
+            "Click here": [
+                ""
+            ],
+            "Dimensions": [
+                ""
+            ],
+            "Weight": [
+                ""
+            ],
+            "Quantity": [
+                ""
+            ],
+            "Qty: ": [
+                ""
+            ],
+            "Stock": [
+                ""
+            ],
+            "SKU": [
+                ""
+            ],
+            "Custom Field": [
+                ""
+            ],
+            "SL No": [
+                ""
+            ],
+            "Aco Quick View": [
+                ""
+            ],
+            "Auto Responsive": [
+                ""
+            ],
+            "Manual Responsive": [
+                ""
+            ],
+            "Sort By": [
+                ""
+            ],
+            "Sort by": [
+                ""
+            ],
+            "Sort by Popularity": [
+                ""
+            ],
+            "Sort by average rating": [
+                ""
+            ],
+            "Sort by price: low to high": [
+                ""
+            ],
+            "Sort by price: high to low": [
+                ""
+            ],
+            "Sort by latest": [
+                ""
+            ],
+            "Sort by name ASC": [
+                ""
+            ],
+            "Sort by name DESC": [
+                ""
+            ],
+            "Sort by menu order ASC": [
+                ""
+            ],
+            "Sort by menu order DESC": [
+                ""
+            ],
+            "Result Count": [
+                ""
+            ],
+            "Showing": [
+                ""
+            ],
+            "of": [
+                ""
+            ],
+            "results": [
+                ""
+            ],
+            "Showing all": [
+                ""
+            ],
+            "Showing the single result": [
+                ""
+            ],
+            "No results found": [
+                ""
+            ],
+            "Results Per Page": [
+                ""
+            ],
+            "per page": [
+                ""
+            ],
+            "Results per page": [
+                ""
+            ],
+            "Category Filter": [
+                ""
+            ],
+            "Any": [
+                ""
+            ],
+            "Price Filter": [
+                ""
+            ],
+            "Price range": [
+                ""
+            ],
+            "Any price": [
+                ""
+            ],
+            "Min": [
+                ""
+            ],
+            "Max": [
+                ""
+            ],
+            "to": [
+                ""
+            ],
+            "Search": [
+                ""
+            ],
+            "Clear Filters": [
+                ""
+            ],
+            "Clear filters": [
+                ""
+            ],
+            "Left column Only": [
+                ""
+            ],
+            "Left: 70%, Right: 30%": [
+                ""
+            ],
+            "Left: 50%, Right: 50%": [
+                ""
+            ],
+            "Left: 30%, Right: 70%": [
+                ""
+            ],
+            "Right column Only": [
+                ""
+            ],
+            "PX": [
+                ""
+            ],
+            "%": [
+                ""
+            ],
+            "Open product page": [
+                ""
+            ],
+            "Open product page in new tab": [
+                ""
+            ],
+            "Display image in lightbox": [
+                ""
+            ],
+            "{Rating Number}{Stars}{Review Count}": [
+                ""
+            ],
+            "{Stars}{Rating Number}{Review Count}": [
+                ""
+            ],
+            "{Review Count}{Stars}{Rating Number}": [
+                ""
+            ],
+            "{Rating Number}{Review Count}{Stars}": [
+                ""
+            ],
+            "{Stars}": [
+                ""
+            ],
+            "{Stars}{Review Count}": [
+                ""
+            ],
+            "{Rating Number}{Stars}": [
+                ""
+            ],
+            "{Rating Number}{Review Count}": [
+                ""
+            ],
+            "{Review Count}": [
+                ""
+            ],
+            "{Rating Number} out of 5 stars": [
+                ""
+            ],
+            "Add to cart via AJAX": [
+                ""
+            ],
+            "Add to cart and refresh page": [
+                ""
+            ],
+            "Add to cart and redirect to cart page": [
+                ""
+            ],
+            "Add to cart and redirect to checkout page": [
+                ""
+            ],
+            "Open external\/affiliate link": [
+                ""
+            ],
+            "Input box": [
+                ""
+            ],
+            "Dropdown": [
+                ""
+            ],
+            "WordPress": [
+                ""
+            ],
+            "Link": [
+                ""
+            ],
+            "Link new tab": [
+                ""
+            ],
+            "PDF or downloadable file link": [
+                ""
+            ],
+            "Phone number": [
+                ""
+            ],
+            "Email address": [
+                ""
+            ],
+            "Image": [
+                ""
+            ],
+            "Row": [
+                ""
+            ],
+            "Left": [
+                ""
+            ],
+            "Right": [
+                ""
+            ],
+            "Center": [
+                ""
+            ],
+            "Justify": [
+                ""
+            ],
+            "Solid": [
+                ""
+            ],
+            "Dotted": [
+                ""
+            ],
+            "Dashed": [
+                ""
+            ],
+            "Double": [
+                ""
+            ],
+            "Ridge": [
+                ""
+            ],
+            "Groove": [
+                ""
+            ]
+        }
+    }
+}

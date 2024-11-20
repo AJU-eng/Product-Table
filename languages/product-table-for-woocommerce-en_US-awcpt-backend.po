@@ -1,0 +1,1282 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: backend.js
+msgid "Product Tables"
+msgstr ""
+
+#: backend.js
+msgid "Settings"
+msgstr ""
+
+#: backend.js
+msgid "Check premium options"
+msgstr ""
+
+#: backend.js
+msgid "Products not found"
+msgstr ""
+
+#: backend.js
+msgid "Item"
+msgstr ""
+
+#: backend.js
+msgid "Items"
+msgstr ""
+
+#: backend.js
+msgid "View Cart"
+msgstr ""
+
+#: backend.js
+msgid "Global Settings"
+msgstr ""
+
+#: backend.js
+msgid "Welcome to Product tables"
+msgstr ""
+
+#: backend.js
+msgid "Cart widget settings"
+msgstr ""
+
+#: backend.js
+msgid "Enable"
+msgstr ""
+
+#: backend.js
+msgid "Bottom offset (unit PX or %)"
+msgstr ""
+
+#: backend.js
+msgid "Right offset (unit PX or %)"
+msgstr ""
+
+#: backend.js
+msgid "Background color"
+msgstr ""
+
+#: backend.js
+msgid "Border color"
+msgstr ""
+
+#: backend.js
+msgid "Border width"
+msgstr ""
+
+#: backend.js
+msgid "Border radius"
+msgstr ""
+
+#: backend.js
+msgid "Font color"
+msgstr ""
+
+#: backend.js
+msgid "Font size"
+msgstr ""
+
+#: backend.js
+msgid "Width (unit PX or %)"
+msgstr ""
+
+#: backend.js
+msgid "Label settings"
+msgstr ""
+
+#: backend.js
+msgid "Products not found message"
+msgstr ""
+
+#: backend.js
+msgid "Footer cart widget single item text"
+msgstr ""
+
+#: backend.js
+msgid "Footer cart widget multiple items text"
+msgstr ""
+
+#: backend.js
+msgid "Footer cart widget view cart text"
+msgstr ""
+
+#: backend.js
+msgid "Save Changes"
+msgstr ""
+
+#: backend.js
+msgid "Saving..."
+msgstr ""
+
+#: backend.js
+msgid "Saved"
+msgstr ""
+
+#: backend.js
+msgid "Hey there,"
+msgstr ""
+
+#: backend.js
+msgid "Add New Table"
+msgstr ""
+
+#: backend.js
+msgid "TITLE"
+msgstr ""
+
+#: backend.js
+msgid "DATE"
+msgstr ""
+
+#: backend.js
+msgid "Shortcode"
+msgstr ""
+
+#: backend.js
+msgid "Actions"
+msgstr ""
+
+#: backend.js
+msgid "Quick edit"
+msgstr ""
+
+#: backend.js
+msgid "Delete"
+msgstr ""
+
+#: backend.js
+msgid "Create First Table"
+msgstr ""
+
+#: backend.js
+msgid "Hey, You haven’t created any tables yet,"
+msgstr ""
+
+#: backend.js
+msgid "please create one"
+msgstr ""
+
+#: backend.js
+msgid "Load more"
+msgstr ""
+
+#: backend.js
+msgid "Add to cart"
+msgstr ""
+
+#: backend.js
+msgid "Update Table"
+msgstr ""
+
+#: backend.js
+msgid "Edit current table"
+msgstr ""
+
+#: backend.js
+msgid "Create New Table"
+msgstr ""
+
+#: backend.js
+msgid "Create new product table"
+msgstr ""
+
+#: backend.js
+msgid "Publish Table"
+msgstr ""
+
+#: backend.js
+msgid "Table Title"
+msgstr ""
+
+#: backend.js
+msgid "Columns"
+msgstr ""
+
+#: backend.js
+msgid "Navigation"
+msgstr ""
+
+#: backend.js
+msgid "Configurations"
+msgstr ""
+
+#: backend.js
+msgid "Responsive"
+msgstr ""
+
+#: backend.js
+msgid "Design"
+msgstr ""
+
+#: backend.js
+msgid "CSS"
+msgstr ""
+
+#: backend.js
+msgid "Table Columns"
+msgstr ""
+
+#: backend.js
+msgid "Add Column"
+msgstr ""
+
+#: backend.js
+msgid "Close"
+msgstr ""
+
+#: backend.js
+msgid "Properties"
+msgstr ""
+
+#: backend.js
+msgid "Column Label"
+msgstr ""
+
+#: backend.js
+msgid "Column Width"
+msgstr ""
+
+#: backend.js
+msgid "Select"
+msgstr ""
+
+#: backend.js
+msgid "Link to the product page"
+msgstr ""
+
+#: backend.js
+msgid "Open product link on new tab"
+msgstr ""
+
+#: backend.js
+msgid "Image Size"
+msgstr ""
+
+#: backend.js
+msgid "Display placeholder if image is not available"
+msgstr ""
+
+#: backend.js
+msgid "Click action"
+msgstr ""
+
+#: backend.js
+msgid "Template"
+msgstr ""
+
+#: backend.js
+msgid "Text when product is not rated"
+msgstr ""
+
+#: backend.js
+msgid "Word limit"
+msgstr ""
+
+#: backend.js
+msgid "This will strip HTML from content."
+msgstr ""
+
+#: backend.js
+msgid "Attribute"
+msgstr ""
+
+#: backend.js
+msgid "Terms separator"
+msgstr ""
+
+#: backend.js
+msgid "Text when no terms"
+msgstr ""
+
+#: backend.js
+msgid "Category separator"
+msgstr ""
+
+#: backend.js
+msgid "Text when no categories"
+msgstr ""
+
+#: backend.js
+msgid "Tags separator"
+msgstr ""
+
+#: backend.js
+msgid "Text when no tags"
+msgstr ""
+
+#: backend.js
+msgid "Taxonomy name"
+msgstr ""
+
+#: backend.js
+msgid "Use default WooCommerce product page button"
+msgstr ""
+
+#: backend.js
+msgid "Button label"
+msgstr ""
+
+#: backend.js
+msgid "Action"
+msgstr ""
+
+#: backend.js
+msgid "Button Style"
+msgstr ""
+
+#: backend.js
+msgid "Text color"
+msgstr ""
+
+#: backend.js
+msgid "Border style"
+msgstr ""
+
+#: backend.js
+msgid "Text align"
+msgstr ""
+
+#: backend.js
+msgid "Padding"
+msgstr ""
+
+#: backend.js
+msgid "Hover background color"
+msgstr ""
+
+#: backend.js
+msgid "Hover border color"
+msgstr ""
+
+#: backend.js
+msgid "Hover text color"
+msgstr ""
+
+#: backend.js
+msgid "Out of stock message"
+msgstr ""
+
+#: backend.js
+msgid "Single product left in stock message"
+msgstr ""
+
+#: backend.js
+msgid "Low stock threshold"
+msgstr ""
+
+#: backend.js
+msgid "Low stock message"
+msgstr ""
+
+#: backend.js
+msgid "In stock message"
+msgstr ""
+
+#: backend.js
+msgid "Display as"
+msgstr ""
+
+#: backend.js
+msgid "Hide for sold individual products"
+msgstr ""
+
+#: backend.js
+msgid "Max quantity"
+msgstr ""
+
+#: backend.js
+msgid "Quantity label"
+msgstr ""
+
+#: backend.js
+msgid "Date format (Use PHP valid formats)"
+msgstr ""
+
+#: backend.js
+msgid "Template ( Use"
+msgstr ""
+
+#: backend.js
+msgid "or"
+msgstr ""
+
+#: backend.js
+msgid "Custom field name ( meta key )"
+msgstr ""
+
+#: backend.js
+msgid "Custom field type"
+msgstr ""
+
+#: backend.js
+msgid "Display value as"
+msgstr ""
+
+#: backend.js
+msgid "Text when no value exists"
+msgstr ""
+
+#: backend.js
+msgid "Use"
+msgstr ""
+
+#: backend.js
+msgid "for product id"
+msgstr ""
+
+#: backend.js
+msgid "Text"
+msgstr ""
+
+#: backend.js
+msgid "HTML"
+msgstr ""
+
+#: backend.js
+msgid "Additional Settings"
+msgstr ""
+
+#: backend.js
+msgid "Custom Class"
+msgstr ""
+
+#: backend.js
+msgid "View Properties"
+msgstr ""
+
+#: backend.js
+msgid "Select a column to see it’s properties"
+msgstr ""
+
+#: backend.js
+msgid "Please don't add same filter in multiple containers"
+msgstr ""
+
+#: backend.js
+msgid "Left Sidebar"
+msgstr ""
+
+#: backend.js
+msgid "Add Element"
+msgstr ""
+
+#: backend.js
+msgid "Header Row"
+msgstr ""
+
+#: backend.js
+msgid "Conditions"
+msgstr ""
+
+#: backend.js
+msgid "Table Width (PX)"
+msgstr ""
+
+#: backend.js
+msgid "Products Type"
+msgstr ""
+
+#: backend.js
+msgid "Select Product Type"
+msgstr ""
+
+#: backend.js
+msgid "Products Visibility In"
+msgstr ""
+
+#: backend.js
+msgid "Select Visibility Criteria"
+msgstr ""
+
+#: backend.js
+msgid "Products By Categories"
+msgstr ""
+
+#: backend.js
+msgid "Select Categories"
+msgstr ""
+
+#: backend.js
+msgid "Products By Tags"
+msgstr ""
+
+#: backend.js
+msgid "Select Tags"
+msgstr ""
+
+#: backend.js
+msgid "Products By ID"
+msgstr ""
+
+#: backend.js
+msgid "Add product IDs separated by comma"
+msgstr ""
+
+#: backend.js
+msgid "Products By SKU"
+msgstr ""
+
+#: backend.js
+msgid "Add SKUs separated by comma"
+msgstr ""
+
+#: backend.js
+msgid "Exclude Products By Category"
+msgstr ""
+
+#: backend.js
+msgid "Exclude Products By Tags"
+msgstr ""
+
+#: backend.js
+msgid "Exclude Products By ID"
+msgstr ""
+
+#: backend.js
+msgid "Order"
+msgstr ""
+
+#: backend.js
+msgid "Order By"
+msgstr ""
+
+#: backend.js
+msgid ""
+"In case of sort by price, sku etc. pease chose Custom Meta value or Custom "
+"Meta Number(if number) respectively"
+msgstr ""
+
+#: backend.js
+msgid "Meta key of custom meta Value"
+msgstr ""
+
+#: backend.js
+msgid "Please enter one key only(_sku), there should not be any space or comma"
+msgstr ""
+
+#: backend.js
+msgid "Minimum Price"
+msgstr ""
+
+#: backend.js
+msgid "Maximum Price\t"
+msgstr ""
+
+#: backend.js
+msgid "Show Only In Stock Products"
+msgstr ""
+
+#: backend.js
+msgid "Show Only On Sale Products"
+msgstr ""
+
+#: backend.js
+msgid "Products Per Page"
+msgstr ""
+
+#: backend.js
+msgid "Search target fields"
+msgstr ""
+
+#: backend.js
+msgid "Select Fields"
+msgstr ""
+
+#: backend.js
+msgid "Pagination"
+msgstr ""
+
+#: backend.js
+msgid "Ajax Pagination"
+msgstr ""
+
+#: backend.js
+msgid "Load more button"
+msgstr ""
+
+#: backend.js
+msgid "Load more button label"
+msgstr ""
+
+#: backend.js
+msgid "Add all to cart button"
+msgstr ""
+
+#: backend.js
+msgid "Not support for variable, external and grouped products"
+msgstr ""
+
+#: backend.js
+msgid "Add all to cart button label"
+msgstr ""
+
+#: backend.js
+msgid "Table Custom Class Name"
+msgstr ""
+
+#: backend.js
+msgid "Show Table Head"
+msgstr ""
+
+#: backend.js
+msgid "Responsive Mode"
+msgstr ""
+
+#: backend.js
+msgid "TABLET COLUMN"
+msgstr ""
+
+#: backend.js
+msgid "MOBILE COLUMNS"
+msgstr ""
+
+#: backend.js
+msgid "Table header"
+msgstr ""
+
+#: backend.js
+msgid "Border top width"
+msgstr ""
+
+#: backend.js
+msgid "Border right width"
+msgstr ""
+
+#: backend.js
+msgid "Border bottom width"
+msgstr ""
+
+#: backend.js
+msgid "Border left width"
+msgstr ""
+
+#: backend.js
+msgid "Table body"
+msgstr ""
+
+#: backend.js
+msgid "Button"
+msgstr ""
+
+#: backend.js
+msgid "font size"
+msgstr ""
+
+#: backend.js
+msgid "Active background color"
+msgstr ""
+
+#: backend.js
+msgid "Active border color"
+msgstr ""
+
+#: backend.js
+msgid "Active Text color"
+msgstr ""
+
+#: backend.js
+msgid "Custom CSS"
+msgstr ""
+
+#: backend.js
+msgid "Choose columns"
+msgstr ""
+
+#: backend.js
+msgid "Cancel"
+msgstr ""
+
+#: backend.js
+msgid "Done"
+msgstr ""
+
+#: backend.js
+msgid "Add Navigation elements"
+msgstr ""
+
+#: backend.js
+msgid "Edit"
+msgstr ""
+
+#: backend.js
+msgid "Label"
+msgstr ""
+
+#: backend.js
+msgid "Results Found message"
+msgstr ""
+
+#: backend.js
+msgid "Placeholders:"
+msgstr ""
+
+#: backend.js
+msgid "Message when single page result only"
+msgstr ""
+
+#: backend.js
+msgid "Message when single result only"
+msgstr ""
+
+#: backend.js
+msgid "No results found message"
+msgstr ""
+
+#: backend.js
+msgid "Options Label"
+msgstr ""
+
+#: backend.js
+msgid "Limit Max"
+msgstr ""
+
+#: backend.js
+msgid "Initial Value"
+msgstr ""
+
+#: backend.js
+msgid "Increment limit by"
+msgstr ""
+
+#: backend.js
+msgid "Allow multiple options to be selected"
+msgstr ""
+
+#: backend.js
+msgid "Hide empty terms"
+msgstr ""
+
+#: backend.js
+msgid "Exclude terms by id"
+msgstr ""
+
+#: backend.js
+msgid "Add ids separated by comma"
+msgstr ""
+
+#: backend.js
+msgid "Show any option label"
+msgstr ""
+
+#: backend.js
+msgid "Min Price"
+msgstr ""
+
+#: backend.js
+msgid "Max Price"
+msgstr ""
+
+#: backend.js
+msgid "Step (Increment by)"
+msgstr ""
+
+#: backend.js
+msgid "Show any price option label"
+msgstr ""
+
+#: backend.js
+msgid "custom min - max input option"
+msgstr ""
+
+#: backend.js
+msgid "Placeholder"
+msgstr ""
+
+#: backend.js
+msgid "Button text"
+msgstr ""
+
+#: backend.js
+msgid "Heading"
+msgstr ""
+
+#: backend.js
+msgid "In stock option label"
+msgstr ""
+
+#: backend.js
+msgid "Out of stock option label"
+msgstr ""
+
+#: backend.js
+msgid "On sale option label"
+msgstr ""
+
+#: backend.js
+msgid "Show any rate option label"
+msgstr ""
+
+#: backend.js
+msgid "Clear all label"
+msgstr ""
+
+#: backend.js
+msgid "ASCENDING (Default)"
+msgstr ""
+
+#: backend.js
+msgid "DESCENDING"
+msgstr ""
+
+#: backend.js
+msgid "Name (Default)"
+msgstr ""
+
+#: backend.js
+msgid "Menu Order"
+msgstr ""
+
+#: backend.js
+msgid "Custom Meta Value"
+msgstr ""
+
+#: backend.js
+msgid "Custom Meta Number (if numeric data)"
+msgstr ""
+
+#: backend.js
+msgid "Date"
+msgstr ""
+
+#: backend.js
+msgid "ID"
+msgstr ""
+
+#: backend.js
+msgid "Author"
+msgstr ""
+
+#: backend.js
+msgid "Product Title"
+msgstr ""
+
+#: backend.js
+msgid "Type"
+msgstr ""
+
+#: backend.js
+msgid "Modified"
+msgstr ""
+
+#: backend.js
+msgid "Rand"
+msgstr ""
+
+#: backend.js
+msgid "Reviews/Comment Count"
+msgstr ""
+
+#: backend.js
+msgid "Relevance"
+msgstr ""
+
+#: backend.js
+msgid "Parent"
+msgstr ""
+
+#: backend.js
+msgid "None"
+msgstr ""
+
+#: backend.js
+msgid "Check"
+msgstr ""
+
+#: backend.js
+msgid "Checkbox"
+msgstr ""
+
+#: backend.js
+msgid "Title"
+msgstr ""
+
+#: backend.js
+msgid "Product Image"
+msgstr ""
+
+#: backend.js
+msgid "Price"
+msgstr ""
+
+#: backend.js
+msgid "Rating"
+msgstr ""
+
+#: backend.js
+msgid "Excerpt"
+msgstr ""
+
+#: backend.js
+msgid "Content"
+msgstr ""
+
+#: backend.js
+msgid "Cart Form"
+msgstr ""
+
+#: backend.js
+msgid "Category"
+msgstr ""
+
+#: backend.js
+msgid "Tags"
+msgstr ""
+
+#: backend.js
+msgid "Click here"
+msgstr ""
+
+#: backend.js
+msgid "Dimensions"
+msgstr ""
+
+#: backend.js
+msgid "Weight"
+msgstr ""
+
+#: backend.js
+msgid "Quantity"
+msgstr ""
+
+#: backend.js
+msgid "Qty: "
+msgstr ""
+
+#: backend.js
+msgid "Stock"
+msgstr ""
+
+#: backend.js
+msgid "SKU"
+msgstr ""
+
+#: backend.js
+msgid "Custom Field"
+msgstr ""
+
+#: backend.js
+msgid "SL No"
+msgstr ""
+
+#: backend.js
+msgid "Aco Quick View"
+msgstr ""
+
+#: backend.js
+msgid "Auto Responsive"
+msgstr ""
+
+#: backend.js
+msgid "Manual Responsive"
+msgstr ""
+
+#: backend.js
+msgid "Sort By"
+msgstr ""
+
+#: backend.js
+msgid "Sort by"
+msgstr ""
+
+#: backend.js
+msgid "Sort by Popularity"
+msgstr ""
+
+#: backend.js
+msgid "Sort by average rating"
+msgstr ""
+
+#: backend.js
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: backend.js
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: backend.js
+msgid "Sort by latest"
+msgstr ""
+
+#: backend.js
+msgid "Sort by name ASC"
+msgstr ""
+
+#: backend.js
+msgid "Sort by name DESC"
+msgstr ""
+
+#: backend.js
+msgid "Sort by menu order ASC"
+msgstr ""
+
+#: backend.js
+msgid "Sort by menu order DESC"
+msgstr ""
+
+#: backend.js
+msgid "Result Count"
+msgstr ""
+
+#: backend.js
+msgid "Showing"
+msgstr ""
+
+#: backend.js
+msgid "of"
+msgstr ""
+
+#: backend.js
+msgid "results"
+msgstr ""
+
+#: backend.js
+msgid "Showing all"
+msgstr ""
+
+#: backend.js
+msgid "Showing the single result"
+msgstr ""
+
+#: backend.js
+msgid "No results found"
+msgstr ""
+
+#: backend.js
+msgid "Results Per Page"
+msgstr ""
+
+#: backend.js
+msgid "per page"
+msgstr ""
+
+#: backend.js
+msgid "Results per page"
+msgstr ""
+
+#: backend.js
+msgid "Category Filter"
+msgstr ""
+
+#: backend.js
+msgid "Any"
+msgstr ""
+
+#: backend.js
+msgid "Price Filter"
+msgstr ""
+
+#: backend.js
+msgid "Price range"
+msgstr ""
+
+#: backend.js
+msgid "Any price"
+msgstr ""
+
+#: backend.js
+msgid "Min"
+msgstr ""
+
+#: backend.js
+msgid "Max"
+msgstr ""
+
+#: backend.js
+msgid "to"
+msgstr ""
+
+#: backend.js
+msgid "Search"
+msgstr ""
+
+#: backend.js
+msgid "Clear Filters"
+msgstr ""
+
+#: backend.js
+msgid "Clear filters"
+msgstr ""
+
+#: backend.js
+msgid "Left column Only"
+msgstr ""
+
+#: backend.js
+msgid "Left: 70%, Right: 30%"
+msgstr ""
+
+#: backend.js
+msgid "Left: 50%, Right: 50%"
+msgstr ""
+
+#: backend.js
+msgid "Left: 30%, Right: 70%"
+msgstr ""
+
+#: backend.js
+msgid "Right column Only"
+msgstr ""
+
+#: backend.js
+msgid "PX"
+msgstr ""
+
+#: backend.js
+msgid "%"
+msgstr ""
+
+#: backend.js
+msgid "Open product page"
+msgstr ""
+
+#: backend.js
+msgid "Open product page in new tab"
+msgstr ""
+
+#: backend.js
+msgid "Display image in lightbox"
+msgstr ""
+
+#: backend.js
+msgid "{Rating Number}{Stars}{Review Count}"
+msgstr ""
+
+#: backend.js
+msgid "{Stars}{Rating Number}{Review Count}"
+msgstr ""
+
+#: backend.js
+msgid "{Review Count}{Stars}{Rating Number}"
+msgstr ""
+
+#: backend.js
+msgid "{Rating Number}{Review Count}{Stars}"
+msgstr ""
+
+#: backend.js
+msgid "{Stars}"
+msgstr ""
+
+#: backend.js
+msgid "{Stars}{Review Count}"
+msgstr ""
+
+#: backend.js
+msgid "{Rating Number}{Stars}"
+msgstr ""
+
+#: backend.js
+msgid "{Rating Number}{Review Count}"
+msgstr ""
+
+#: backend.js
+msgid "{Review Count}"
+msgstr ""
+
+#: backend.js
+msgid "{Rating Number} out of 5 stars"
+msgstr ""
+
+#: backend.js
+msgid "Add to cart via AJAX"
+msgstr ""
+
+#: backend.js
+msgid "Add to cart and refresh page"
+msgstr ""
+
+#: backend.js
+msgid "Add to cart and redirect to cart page"
+msgstr ""
+
+#: backend.js
+msgid "Add to cart and redirect to checkout page"
+msgstr ""
+
+#: backend.js
+msgid "Open external/affiliate link"
+msgstr ""
+
+#: backend.js
+msgid "Input box"
+msgstr ""
+
+#: backend.js
+msgid "Dropdown"
+msgstr ""
+
+#: backend.js
+msgid "WordPress"
+msgstr ""
+
+#: backend.js
+msgid "Link"
+msgstr ""
+
+#: backend.js
+msgid "Link new tab"
+msgstr ""
+
+#: backend.js
+msgid "PDF or downloadable file link"
+msgstr ""
+
+#: backend.js
+msgid "Phone number"
+msgstr ""
+
+#: backend.js
+msgid "Email address"
+msgstr ""
+
+#: backend.js
+msgid "Image"
+msgstr ""
+
+#: backend.js
+msgid "Row"
+msgstr ""
+
+#: backend.js
+msgid "Left"
+msgstr ""
+
+#: backend.js
+msgid "Right"
+msgstr ""
+
+#: backend.js
+msgid "Center"
+msgstr ""
+
+#: backend.js
+msgid "Justify"
+msgstr ""
+
+#: backend.js
+msgid "Solid"
+msgstr ""
+
+#: backend.js
+msgid "Dotted"
+msgstr ""
+
+#: backend.js
+msgid "Dashed"
+msgstr ""
+
+#: backend.js
+msgid "Double"
+msgstr ""
+
+#: backend.js
+msgid "Ridge"
+msgstr ""
+
+#: backend.js
+msgid "Groove"
+msgstr ""
